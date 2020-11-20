@@ -1,0 +1,157 @@
+
+
+
+.div {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    text-align: center;
+}
+.ikona1 {
+    margin-top: 20px;
+}
+.div2 {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto auto;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    height: 50px;
+    text-align: center;
+    margin-left: 8%;
+   
+}
+.bg {
+    background-color: rgb(68, 40, 40);
+    height: 50px;
+}
+.img {
+    border: none;
+    background-image: url(luci.jpg);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 650px;
+}
+.txt {
+    margin-top: 15px;
+}
+.txt:hover {
+    color: crimson;
+}
+.div3 {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    text-align: center;
+}
+.div4 {
+    background-color: rgb(54, 33, 33);
+    width: 100%;
+    height: 100%;
+}
+
+
+.div5 {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto;
+    width: 100%;
+    height: 100px;
+    text-align: center;
+    background-color: red;
+}
+
+.menu {
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+}
+.ikona2 {
+    margin-top: 20px;
+    font-size: 50px;
+}
+
+
+.grid {
+    display: grid;
+    grid-template-columns: 75% 25%;
+}
+.grid2 {
+    display: grid;
+    grid-template-rows: auto auto;
+}
+
+
+.grid444{
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-gap: 10px;
+}
+
+.borderrr{
+    border: 1px solid black;
+    width: 230px;
+    height: 300px;
+    background-color: rgb(92, 25, 25);
+}
+
+.borderv2{
+    border: 1px solid red;
+    width: 75%;
+    margin-left: 11%;
+}
+
+.borderv3{
+    border: 6px solid red;
+    width: 100%;
+    margin-top: 10%;
+}
+
+.grid333{
+    display: grid;
+    justify-content: center;
+    grid-template-columns: auto auto auto auto;
+    background-color: rgb(54, 33, 33);
+}
+
+.oferty{
+display: grid;
+grid-template-columns: auto auto auto auto auto auto;
+align-items: center;
+
+}
+
+.tloczerwone{
+    background-color: red;
+    width: 100%;
+    height: 90px;
+    align-items: center;
+}
+
+.tlo{
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/1/1b/Square_200x200.png);
+    width: 200px;
+    height: 200px;
+}
+
+.paus{
+    height: 87%;
+}
+
+.napisss{
+    text-align: center;
+   font-size: 25px;
+   height: 33.5%;
+   background-color: rgba(56,53,53,0.541);
+color: white;
+}
+
+.griddd{
+   display: grid;
+   grid-template-columns: auto auto auto auto;
+}
+
+.amerykanskifajny{
+    width: 100%;
+}
+
+
+.gridzz{
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto;
+}
